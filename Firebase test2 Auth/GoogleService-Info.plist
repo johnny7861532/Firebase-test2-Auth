@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>133319591547-16b1peoshnu6q92kvp7fji9hdf8ne2ql.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.133319591547-16b1peoshnu6q92kvp7fji9hdf8ne2ql</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB6YbU1b1nRb83Z_1hwhMOlym6akSHT3As</string>
+	<key>GCM_SENDER_ID</key>
+	<string>133319591547</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>JohnnyHsieh.Firebase-test2-Auth</string>
+	<key>PROJECT_ID</key>
+	<string>fir-test2-auth</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-test2-auth.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:133319591547:ios:99dbcf68685e9d0f</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-test2-auth.firebaseio.com</string>
+</dict>
+</plist>
